@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T12:35:23 IST" name="Suite" finished-at="2023-10-05T12:36:31 IST" duration-ms="67458">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T12:35:23 IST" name="Test" finished-at="2023-10-05T12:36:31 IST" duration-ms="67458">
+      <class name="testPackage.ActiTimeDeleteTestcase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.ActiTimeDeleteTestcase@196a42c3]" started-at="2023-10-05T12:36:23 IST" name="setUp" finished-at="2023-10-05T12:36:27 IST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteTestScript()[pri:0, instance:testPackage.ActiTimeDeleteTestcase@196a42c3]" started-at="2023-10-05T12:36:27 IST" name="deleteTestScript" finished-at="2023-10-05T12:36:30 IST" duration-ms="3863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTestScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.ActiTimeDeleteTestcase@196a42c3]" started-at="2023-10-05T12:36:30 IST" name="tearDown" finished-at="2023-10-05T12:36:31 IST" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.ActiTimeDeleteTestcase -->
+      <class name="testPackage.ActiTimeCreateProjects_Customers">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.ActiTimeCreateProjects_Customers@17f9d882]" started-at="2023-10-05T12:36:02 IST" name="setUp" finished-at="2023-10-05T12:36:06 IST" duration-ms="3569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createValidCustomer_ProjectTestScript()[pri:0, instance:testPackage.ActiTimeCreateProjects_Customers@17f9d882]" started-at="2023-10-05T12:36:06 IST" name="createValidCustomer_ProjectTestScript" finished-at="2023-10-05T12:36:14 IST" duration-ms="8561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createValidCustomer_ProjectTestScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.ActiTimeCreateProjects_Customers@17f9d882]" started-at="2023-10-05T12:36:14 IST" name="tearDown" finished-at="2023-10-05T12:36:15 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.ActiTimeCreateProjects_Customers -->
+      <class name="testPackage.ActiTimeValidLoginTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.ActiTimeValidLoginTestCase@1c5920df]" started-at="2023-10-05T12:35:57 IST" name="setUp" finished-at="2023-10-05T12:36:01 IST" duration-ms="3612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="valiLoginTestScript()[pri:0, instance:testPackage.ActiTimeValidLoginTestCase@1c5920df]" started-at="2023-10-05T12:36:01 IST" name="valiLoginTestScript" finished-at="2023-10-05T12:36:02 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valiLoginTestScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.ActiTimeValidLoginTestCase@1c5920df]" started-at="2023-10-05T12:36:02 IST" name="tearDown" finished-at="2023-10-05T12:36:02 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.ActiTimeValidLoginTestCase -->
+      <class name="testPackage.ActiTimeInvalidLoginTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.ActiTimeInvalidLoginTestCase@1ed4ae0f]" started-at="2023-10-05T12:35:24 IST" name="setUp" finished-at="2023-10-05T12:35:31 IST" duration-ms="7651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InvalidLoginScript()[pri:0, instance:testPackage.ActiTimeInvalidLoginTestCase@1ed4ae0f]" started-at="2023-10-05T12:35:31 IST" name="InvalidLoginScript" finished-at="2023-10-05T12:35:57 IST" duration-ms="25404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLoginScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.ActiTimeInvalidLoginTestCase@1ed4ae0f]" started-at="2023-10-05T12:35:57 IST" name="tearDown" finished-at="2023-10-05T12:35:57 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.ActiTimeInvalidLoginTestCase -->
+      <class name="testPackage.ActiTimeCreateManager">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.ActiTimeCreateManager@79e4c792]" started-at="2023-10-05T12:36:15 IST" name="setUp" finished-at="2023-10-05T12:36:18 IST" duration-ms="3382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewManagerTestScript()[pri:0, instance:testPackage.ActiTimeCreateManager@79e4c792]" started-at="2023-10-05T12:36:18 IST" name="createNewManagerTestScript" finished-at="2023-10-05T12:36:23 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewManagerTestScript -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testPackage.ActiTimeCreateManager@79e4c792]" started-at="2023-10-05T12:36:23 IST" name="tearDown" finished-at="2023-10-05T12:36:23 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testPackage.ActiTimeCreateManager -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
